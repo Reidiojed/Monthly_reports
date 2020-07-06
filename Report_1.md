@@ -23,6 +23,7 @@
 - July 1 "How to set a Decred node" https://medium.com/decred-es/mi-experiencia-configurando-un-nodo-completo-de-decred-d5321304bc48
 - July 1 "Porque Decred es necesario: un enfoque inclusivo sobre el dinero duradero" on Medium https://medium.com/decred-es/porque-decred-es-necesario-un-enfoque-inclusivo-sobre-el-dinero-duradero-b8235fb312f3 
 - July 2 Politeia Express https://twitter.com/Decred_ES/status/1278855527485837319 
+- July 3 "El trabajo en el mundo digital: del Software libre a las Organizaciones Autónomas Descentralizadas" on Medium https://medium.com/@anadalia.cd/el-trabajo-en-el-mundo-digital-del-software-libre-a-las-organizaciones-aut%C3%B3nomas-descentralizadas-44caf434aab6 
 - July 6 Decred Drive (2 de Julio) on Medium https://medium.com/decred-es/decred-drive-2-de-julio-27ee9e6f53ba 
 
 *News and mentions:* 
@@ -39,6 +40,11 @@
 - Blockchain Summit Uruguay 
 
 **Next steps:**
-- 
+- Continue with monthly events and social media content
+- Follow up on business development conversations
+- Article on marketing challenges for Cointelegraph in Spanish
+- Articles on DEOs and remote working for Talent Republic and Cointelegraph in Spanish
+- Growing new Telegram group for developers 
+- Conversations with hacking communities for online webinars https://github.com/DecredES/Areas-de-Trabajo/tree/master/Decred%20Contenidos/Devs 
 
 
