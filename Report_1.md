@@ -27,6 +27,7 @@ Business Development conversation:
 - TechwithCatalina for content creations and cross marketing campaings 
 - LumitHub for sponsorhips of academyc resources
 - Lvna Capital 
+- Blockchain Summit Uruguay 
 
 Next steps:
 - 
