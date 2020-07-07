@@ -27,6 +27,7 @@
 - July 6 Decred Drive (2 de Julio) on Medium https://medium.com/decred-es/decred-drive-2-de-julio-27ee9e6f53ba 
 
 *News and mentions:* 
+- May 20 What is Decred? A secure, adaptable and sustainable store of value in Cointelegraph en Español https://es.cointelegraph.com/news/decred-introduction-to-a-store-of-value-with-security-adaptability-and-sustainability
 - June 9 Blockchain Land Director mention on Latam proposal approval https://twitter.com/josepimpo/status/1270345149525213184
 - June 10 Decred Blockchain analysis from Richard Red translated to Spanish by Territorio Blockchain Magazine https://twitter.com/_TBlockchain/status/1270766708278648833
 - June 18 Decred On-chain: Realised Cap, MVRV Ratio y Gradient Oscillators in Spanish by Territorio Blockchain Magazine https://twitter.com/_TBlockchain/status/1273541731062099969
