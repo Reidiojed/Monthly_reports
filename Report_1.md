@@ -49,6 +49,4 @@
 - Article on marketing challenges for Cointelegraph in Spanish
 - Articles on DEOs and remote working for Talent Republic and Cointelegraph in Spanish
 - Growing new Telegram group for developers 
-- Conversations with hacking communities for online webinars https://github.com/DecredES/Areas-de-Trabajo/tree/master/Decred%20Contenidos/Devs 
-
-
+- Conversations with hacking communities for online webinars
