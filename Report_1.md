@@ -1,4 +1,4 @@
-**Report of activities Decred en Español Proposal 2 from June 8th to July 8th**
+**Activities Report: Decred en Español Proposal 2 from June 8th to July 8th**
 
 *Events:*
 - June 25 HablemosDecred 6 "Git and Github: global collaboration tools" https://twitter.com/Decred_ES/status/1275164449448607748 https://www.youtube.com/watch?v=4b0xYYk6xlY 
