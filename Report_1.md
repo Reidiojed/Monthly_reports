@@ -50,3 +50,5 @@
 - Articles on DAOs and remote working for Talent Republic and Cointelegraph in Spanish
 - Growing new Telegram group for developers 
 - Conversations with hacking communities for online webinars
+
+
