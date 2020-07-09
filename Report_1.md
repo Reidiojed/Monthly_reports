@@ -19,7 +19,6 @@
 - Revista Decred Mayo 2020 on Medium https://medium.com/decred-es/revista-decred-mayo-2020-a02e5de0ac59
 - June 17 Politeia Digest #32 — Mayo 23 — Junio 12 2020 in Spanish https://medium.com/decred-es/politeia-digest-32-mayo-23-junio-12-2020-69937842d972 
 - June 20 Podcast "What is Decred?" with Territorio Bitcoin https://www.ivoox.com/episodio-123-que-es-decred-entrevista-en-audios-mp3_rf_52242080_1.html 
-- June 25 "BTC, ETH and DCR are part of the largest econmic and technological revolution of our generation" on Cointelegraph en Español https://es.cointelegraph.com/news/elian-huesca-btc-eth-and-decred-are-part-of-the-greatest-technological-and-economic-revolution-of-our-generation
 - June 26 Decred wallet download https://twitter.com/Decred_ES/status/1276586231560724480
 - June 26 Decred Drive (11 de Junio) on Medium https://medium.com/decred-es/decred-drive-11-junio-781069b7ed49 
 - June 26 Decred Drive (18 de Junio) on Medium https://medium.com/decred-es/decred-drive-18-de-junio-4b2603f11b13
@@ -34,6 +33,7 @@
 - June 9 Blockchain Land Director mention on Latam proposal approval https://twitter.com/josepimpo/status/1270345149525213184
 - June 10 Decred Blockchain analysis from Richard Red translated to Spanish by Territorio Blockchain Magazine https://twitter.com/_TBlockchain/status/1270766708278648833
 - June 18 Decred On-chain: Realised Cap, MVRV Ratio y Gradient Oscillators in Spanish by Territorio Blockchain Magazine https://twitter.com/_TBlockchain/status/1273541731062099969
+- June 25 "BTC, ETH and DCR are part of the largest econmic and technological revolution of our generation" on Cointelegraph en Español https://es.cointelegraph.com/news/elian-huesca-btc-eth-and-decred-are-part-of-the-greatest-technological-and-economic-revolution-of-our-generation
 - July 3 Anibal Cripto on the Governance panel with Ernesto Contreras from Dash Pay https://twitter.com/anibalcripto/status/1279191924835061761 https://twitter.com/anibalcripto/status/1279209142763347973
 
 *Business Development conversation:*
@@ -47,6 +47,6 @@
 - Continue with monthly events and social media content
 - Follow up on business development conversations
 - Article on marketing challenges for Cointelegraph in Spanish
-- Articles on DEOs and remote working for Talent Republic and Cointelegraph in Spanish
+- Articles on DAOs and remote working for Talent Republic and Cointelegraph in Spanish
 - Growing new Telegram group for developers 
 - Conversations with hacking communities for online webinars
