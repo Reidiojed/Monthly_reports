@@ -49,7 +49,7 @@
 
 - August 3 #HablemosDecred 8 mention by criptolugares https://twitter.com/criptolugares/status/1290295356505223168
 
-- August 7 Mention of Decred work in Latam by tomee https://es.cointelegraph.com/news/managing-director-of-crypto-resources-we-believe-in-cooperation-rather-than-competition
+- August 7 Mention of Decred work in Latam by tomee in Cointelegraph en Español https://es.cointelegraph.com/news/managing-director-of-crypto-resources-we-believe-in-cooperation-rather-than-competition
 
 **Business Development conversation:**
 
