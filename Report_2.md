@@ -22,7 +22,7 @@
 
 - July 22 Crypto scams and how to prevent them with Crypto Resources Academy https://twitter.com/Decred_ES/status/1285246522536480769 
 
-- July 27 Decredizados https://twitter.com/Decred_ES/status/1287809385834713091 https://www.youtube.com/watch?v=lomSwQjs9uQ
+- July 27 Decredizados 5 https://twitter.com/Decred_ES/status/1287809385834713091 https://www.youtube.com/watch?v=lomSwQjs9uQ
 
 **Social Media Content:**
 
