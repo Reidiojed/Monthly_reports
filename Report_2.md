@@ -1,6 +1,6 @@
-Activities Report Decred en Español Proposal 2 from July 8th to August 8th
+**Activities Report Decred en Español Proposal 2 from July 8th to August 8th**
 
-Events:
+**Events:**
 
 - July 22 "Code, communities, DAOs and blockchain" with Pablito and Camilolwi https://twitter.com/Decred_ES/status/1285664801495154695
 
@@ -14,7 +14,7 @@ Events:
 
 - August 6 #HablemosDecred 8 "Commerce and cryptocurrencies" with Jose Manuel da Silva from criptolugares.com https://twitter.com/Decred_ES/status/1287924524906958848 
 
-Videos: 
+**Videos:**
 
 - July 8 Introduction to Bitcoin, Decred and cryptocurrencies with Crypto Resources Academy https://twitter.com/Decred_ES/status/1282694652915789825 https://www.youtube.com/watch?v=DdisxhEBUkM
 
@@ -24,7 +24,7 @@ Videos:
 
 - July 27 Decredizados https://twitter.com/Decred_ES/status/1287809385834713091 https://www.youtube.com/watch?v=lomSwQjs9uQ
 
-Social Media Content:
+**Social Media Content:**
 
 - July 12 DCRDEX https://twitter.com/Decred_ES/status/1282350386175791104  
 
@@ -43,7 +43,7 @@ Social Media Content:
 - August 10 "Exploring Decred with Python" with pablito https://twitter.com/Decred_ES/status/1292842239878627328 https://www.youtube.com/watch?v=FGhklclRNt0
 
 
-News and mentions:
+**News and mentions:**
 
 - July 17 "More than 20 new devs at Decred" by adcade for Cointelegraph in Spanish https://es.cointelegraph.com/news/more-than-20-developers-have-contributed-to-decred-so-far-this-year 
 
@@ -51,13 +51,13 @@ News and mentions:
 
 - August 7 Mention of Decred work in Latam by tomee https://es.cointelegraph.com/news/managing-director-of-crypto-resources-we-believe-in-cooperation-rather-than-competition
 
-Business Development conversation:
+**Business Development conversation:**
 
 - Blockchain Summit Global
 
 - Talent Land and Gaming Land 
 
-Next steps:
+**Next steps:**
 
 - Continue with monthly events and social media content
 
