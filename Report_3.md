@@ -15,11 +15,11 @@
     - [Twitter announcement](https://twitter.com/Decred_ES/status/1298664435188408320)
     - [Youtube](https://www.youtube.com/watch?v=S9klI1rUGvM)
   
-- August 29 From Laws to Protocol with Libertarian Students League and Adcade
+- August 29 From Laws to Protocol with Students for Liberty and Adcade
     - [Twitter announcement](https://twitter.com/Decred_ES/status/1299506004607094784)
     - [Youtube]()
 
--  August 31st FAS panel on decentralised organisations with NEO and Dash 
+-  August 31st FAS panel on decentralized organisations with NEO and Dash 
     - [Twitter announcement](https://twitter.com/Decred_ES/status/1298275771333705728)
     - [Youtube](https://www.youtube.com/watch?v=yIlVTSObIzU&feature=youtu.be) 
   
