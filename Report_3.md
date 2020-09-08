@@ -31,17 +31,17 @@
 
 **Videos:**
 
--  August 10 Codigo Decred Exploring Python 
+-  August 10 Código Decred #02: Exploring the Decred chain with Python 
     - [Twitter announcement](https://twitter.com/Decred_ES/status/1292842239878627328)
     - [Youtube](https://www.youtube.com/watch?v=FGhklclRNt0)
 
--  August 19 Politeia Digest in Spanish 
+-  August 19 Politeia Express Marketing Proposals Overview in Spanish
     - [Twitter announcement](https://twitter.com/Decred_ES/status/1296148410173620225)
     - [Youtube]()
   
--  Ausgust 31 Codigo Decred Verifing Binaries 
+-  Ausgust 31 Código Decred #03: Verifying Binaries 
     - [Twitter announcement](https://twitter.com/Decred_ES/status/1300594435080757248)
-    - [Youtube](https://www.youtube.com/watch?v=U3BwnmmF1Ro&feature=youtu.be)
+    - [Youtube](https://www.youtube.com/watch?v=U3BwnmmF1Ro)
 
 **Social Media Content:**
 
@@ -55,7 +55,7 @@
 -  August 21st How is money created post 
     - [Twitter](https://twitter.com/Decred_ES/status/1296830465987485702) 
 
--  August 27th Politeia Digest Spanish translation
+-  August 27th Politeia Digest #34 & #35 Spanish translation
     - [Twitter announcement](https://twitter.com/Decred_ES/status/1299127558349389825) 
     - [Medium](https://medium.com/decred-es/politeia-digest-spanish/home) 
 
