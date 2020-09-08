@@ -87,4 +87,5 @@
 **Next steps:**
 
 - Continue with monthly events and social media content: #HablemosDecred 11, 12, 13 and 14 
+- Recording of Decred in Spanish Podcast episodes. 
 
