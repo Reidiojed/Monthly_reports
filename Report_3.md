@@ -1,4 +1,4 @@
-**Activities Report Decred en Español Proposal 2 from August 8th to September 8th**
+**Activities Report 3 Decred en Español Proposal 2 from August 8th to September 8th**
 
 **Events:**
 
@@ -82,7 +82,7 @@
 
 **Financials**
 
-- As of this report the Decred in Spanish activities have used 40.8% of the total proposal budget, or around $18,790.00 usd, at a monthly rate of $6,263.00 usd over the past 3 months. This monthly budget represent around 188 contractors hours per month for content business development, content creation, social media management and community organsing. 
+- As of this report the Decred in Spanish activities have used 40.8% of the total proposal budget, or around $18,790.00 usd, at a monthly rate of $6,263.00 usd over the past 3 months. This monthly budget represent around 188 contractors hours per month for content business development, content creation, social media management and community organsing. For more information on the previous two proposals reports please visit the [Report 1](https://www.reddit.com/r/decred/comments/hn4sve/activities_report_decred_en_espa%C3%B1ol_proposal_2/) and [Report 2](https://www.reddit.com/r/decred/comments/i7ue8h/activities_report_decred_en_espa%C3%B1ol_proposal_2/). 
 
 **Next steps:**
 
