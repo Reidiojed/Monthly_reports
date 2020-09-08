@@ -72,7 +72,7 @@
     - [Criptonoticias](https://www.criptonoticias.com/mercados/nueva-plataforma-evento-legalidad-nem-decred-top-semanal/amp/?__twitter_impression=true)
 
 -  August 26th Cryptocurrencies and the challengues of organic growth in Cointelegraph in Spanish
-  - [Cointelegraph in Spanish](https://es.cointelegraph.com/news/cryptology-and-marketing-the-challenges-of-organic-growth)
+    - [Cointelegraph in Spanish](https://es.cointelegraph.com/news/cryptology-and-marketing-the-challenges-of-organic-growth)
 
 
 **Business Development conversation:**
