@@ -17,7 +17,8 @@
   
 - August 29 From Laws to Protocol with Students for Liberty and Adcade
     - [Twitter announcement](https://twitter.com/Decred_ES/status/1299506004607094784)
-    - [Youtube]()
+    - [Eventbrite](https://www.eventbrite.com/e/de-las-leyes-al-protocolo-blockchain-y-su-transfondo-libertario-tickets-118117052283#)
+    - [Facebook live](https://www.facebook.com/894983097182840/videos/312801089791414)
 
 -  August 31st FAS panel on decentralized organisations with NEO and Dash 
     - [Twitter announcement](https://twitter.com/Decred_ES/status/1298275771333705728)
@@ -36,8 +37,7 @@
     - [Youtube](https://www.youtube.com/watch?v=FGhklclRNt0)
 
 -  August 19 Politeia Express Marketing Proposals Overview in Spanish
-    - [Twitter announcement](https://twitter.com/Decred_ES/status/1296148410173620225)
-    - [Youtube]()
+    - [Twitter announcement and video](https://twitter.com/Decred_ES/status/1296148410173620225)
   
 -  Ausgust 31 Código Decred #03: Verifying Binaries 
     - [Twitter announcement](https://twitter.com/Decred_ES/status/1300594435080757248)
