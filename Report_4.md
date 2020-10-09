@@ -24,12 +24,16 @@
 
 -  October 2nd "Descentralized governance" panel with Crypto Resources Academy 
     - [Twitter announcement](https://twitter.com/Decred_ES/status/1310961312105672705)
-    - [Youtube]() 
+    - [Twitter](https://twitter.com/Decred_ES/status/1312150389160988673) 
+    - [Meetup](https://www.meetup.com/es/Crypto-Resources/events/273511090/?isFirstPublish=true) 
   
--  
-    - [Twitter announcement]()
-    - [Youtube]()
-    - [Twitter]()
+-  October 8th #HablemosDecred 16 @Cryptocurrencies in Venezuela" with Ezio Rojas and Anibal Cripto
+    - [Twitter announcement](https://twitter.com/Decred_ES/status/1313526622927171585)
+    - [Youtube](https://www.youtube.com/watch?v=xxNFxZJuOwA)
+    - [Twitter](https://twitter.com/Decred_ES/status/1314347838348972033)
+    
+-  October 8th Criptolugares instagram live on Politeia 
+    - [Twitter announcement](https://twitter.com/Decred_ES/status/1313869491160444929)
  
 
 **Videos:**
@@ -78,27 +82,58 @@
 -   September 28th first episode of Decred in Spanish podcast 
     - [Twitter](https://twitter.com/Decred_ES/status/1310654270056923136) 
     - [Twitter](https://twitter.com/Decred_ES/status/1310055071200292869)
+
+-   October 3th post on DCR security 
+    - [Twitter](https://twitter.com/Decred_ES/status/1312467521686044673)
+    
+-   October 5th post on @steelbackup security 
+    - [Twitter](https://twitter.com/Decred_ES/status/1313192687722520577)
+    
+-    
+    - [Twitter]()
+    
+-    
+    - [Twitter]()
   
 
 **News and mentions:**
 
--  
-    - [Criptonoticias]()
+-  September 21st coverage on #HablemosDecred 14 on The wild crypto maximalism 
+    - [Cointelegraph in Spanish](https://es.cointelegraph.com/news/virtual-talk-where-does-the-concept-of-maximalist-come-from)
 
--  
-    - [Cointelegraph in Spanish]()
+-  September 28th coverage on #HablemosDecred 15 on DeFi, NFTs and investments of the future
+    - [Cointelegraph in Spanish](https://es.cointelegraph.com/news/there-will-be-a-new-edition-of-lets-talk-decred-about-defi-nfts-and-the-future-of-investments)
+    
+-  October 1st Criptolugares currency of the month 
+    - [Twitter](https://twitter.com/criptolugares/status/1311680366328111105)
+    
+-  October 5th covegare on #HablemosDecred 16 on Cryptocurrencies in Venezuela 
+    - [Cointelegraph in Spanish](https://es.cointelegraph.com/news/the-next-meeting-of-lets-talk-decred-will-be-about-cryptocurrencies-in-venezuela)
 
 
-**Business Development conversation:**
+**Business Development conversation and following events:**
 
 - Organization of details for the Decred in Spanish Hackathon with Talent Land, we are expecting over 50 participants into the challengues of the hackathon. This will be one of the last activities of the proposal and is programmed for November, the first invitacion for participating will be launch in early October. 
+    
+-   October 17th Decred API blockchain introduction 
+    - [Twitter](https://twitter.com/Decred_ES/status/1314031872658333698)
+    
+-   October 19th Open Source Software Contributors Summit 
+    - [Twitter](https://twitter.com/Decred_ES/status/1314339020684525568)
+    
+-   November 2nd and 3th Blockchain Summit Latam, Decred will be a Silver sponsor 
+    - [Twitter](https://twitter.com/BlockSummitLA/status/1313302075879677952)
 
 
 **Financials**
 
-- As of this report the Decred in Spanish activities have used 40.8% of the total proposal budget, or around $18,790.00 usd, at a monthly rate of $6,263.00 usd over the past 3 months. This monthly budget represent around 188 contractors hours per month for content business development, content creation, social media management and community organsing. For more information on the previous two proposals reports please visit the [Report 1](https://www.reddit.com/r/decred/comments/hn4sve/activities_report_decred_en_espa%C3%B1ol_proposal_2/) and [Report 2](https://www.reddit.com/r/decred/comments/i7ue8h/activities_report_decred_en_espa%C3%B1ol_proposal_2/). 
+- As of this report the Decred in Spanish activities have used ---% of the total proposal budget, or around ----- usd, at a monthly rate of $---- usd over the past 3 months. This monthly budget represent around 188 contractors hours per month for content business development, content creation, social media management and community organsing. For more information on the previous two proposals reports please visit the [Report 1](https://www.reddit.com/r/decred/comments/hn4sve/activities_report_decred_en_espa%C3%B1ol_proposal_2/), [Report 2](https://www.reddit.com/r/decred/comments/i7ue8h/activities_report_decred_en_espa%C3%B1ol_proposal_2/) and [Report 3](https://www.reddit.com/r/decred/comments/ip0uke/activities_report_3_decred_en_espa%C3%B1ol_proposal_2/). 
 
 **Next steps:**
 
-- Continue with monthly events and social media content: #HablemosDecred 11, 12, 13 and 14 
+- Continue with monthly events and social media content: #HablemosDecred 17, 18, 19 and 20  
 - Recording of Decred in Spanish Podcast episodes. 
+
+
+-    
+    - [Twitter]()
