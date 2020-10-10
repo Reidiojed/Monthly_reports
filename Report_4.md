@@ -113,7 +113,7 @@
 
 **Business Development conversation and following events:**
 
-- Organization of details for the Decred in Spanish Hackathon with Talent Land, we are expecting over 50 participants into the challengues of the hackathon. This will be one of the last activities of the proposal and is programmed for November, the first invitacion for participating will be launch in early October. 
+- Organization of details for the Decred in Spanish Hackathon with Talent Land, we are expecting over 50 participants into the challengues of the hackathon. This will be one of the last activities of the proposal and is programmed for November, the first invitacion for participating will be launch in mid October. 
     
 -   October 17th Decred API blockchain introduction 
     - [Twitter](https://twitter.com/Decred_ES/status/1314031872658333698)
@@ -127,7 +127,7 @@
 
 **Financials**
 
-- As of this report the Decred in Spanish activities have used ---% of the total proposal budget, or around ----- usd, at a monthly rate of $---- usd over the past 3 months. This monthly budget represent around 188 contractors hours per month for content business development, content creation, social media management and community organsing. For more information on the previous two proposals reports please visit the [Report 1](https://www.reddit.com/r/decred/comments/hn4sve/activities_report_decred_en_espa%C3%B1ol_proposal_2/), [Report 2](https://www.reddit.com/r/decred/comments/i7ue8h/activities_report_decred_en_espa%C3%B1ol_proposal_2/) and [Report 3](https://www.reddit.com/r/decred/comments/ip0uke/activities_report_3_decred_en_espa%C3%B1ol_proposal_2/). 
+- As of this report the Decred in Spanish activities have used 56.4% of the total proposal budget, or around $25,900 usd, at a monthly rate of $6,495 usd over the past 4 months. This monthly budget represent around 188 contractors hours per month for content business development, content creation, social media management and community organsing. For more information on the previous two proposals reports please visit the [Report 1](https://www.reddit.com/r/decred/comments/hn4sve/activities_report_decred_en_espa%C3%B1ol_proposal_2/), [Report 2](https://www.reddit.com/r/decred/comments/i7ue8h/activities_report_decred_en_espa%C3%B1ol_proposal_2/) and [Report 3](https://www.reddit.com/r/decred/comments/ip0uke/activities_report_3_decred_en_espa%C3%B1ol_proposal_2/). 
 
 **Next steps:**
 
