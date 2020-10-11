@@ -41,13 +41,12 @@
 -   
     - [Twitter announcement]()
     - [Youtube]()
-
--  
     - [Twitter announcement and video]()
-  
--  
     - [Twitter announcement]()
     - [Youtube]()
+    - [Podcast #1 - Introducción a Decred en Español con Elian Huesca](https://www.youtube.com/watch?v=BGuV7AGeWAE)
+    - [Podcast #2 - Proyecto Decred con Elian Huesca](https://www.youtube.com/watch?v=LfTigtRsmDA&t=1s)
+    - [Código Decred - DCR Wallet](https://www.youtube.com/watch?v=S2SeVZqnO9A)
 
 **Social Media Content:**
 
