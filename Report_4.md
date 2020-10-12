@@ -34,19 +34,18 @@
     
 -  October 8th Criptolugares instagram live on Politeia 
     - [Twitter announcement](https://twitter.com/Decred_ES/status/1313869491160444929)
- 
 
-**Videos:**
 
--   
-    - [Twitter announcement]()
-    - [Youtube]()
-    - [Twitter announcement and video]()
-    - [Twitter announcement]()
-    - [Youtube]()
-    - [Podcast #1 - Introducción a Decred en Español con Elian Huesca](https://www.youtube.com/watch?v=BGuV7AGeWAE)
-    - [Podcast #2 - Proyecto Decred con Elian Huesca](https://www.youtube.com/watch?v=LfTigtRsmDA&t=1s)
-    - [Código Decred - DCR Wallet](https://www.youtube.com/watch?v=S2SeVZqnO9A)
+**Videos and Podcast:**
+
+-   September 26th Podcast #1 - Introducción a Decred en Español con Elian Huesca
+    - [Youtube](https://www.youtube.com/watch?v=BGuV7AGeWAE)
+
+-   October 10th Podcast #2 - Proyecto Decred con Elian Huesca
+    - [Youtube](https://youtu.be/LfTigtRsmDA)
+
+-   October 12th Codigo Decred DCR Wallet 
+    - [Youtube](https://youtu.be/S2SeVZqnO9A)
 
 **Social Media Content:**
 
@@ -87,12 +86,6 @@
     
 -   October 5th post on @steelbackup security 
     - [Twitter](https://twitter.com/Decred_ES/status/1313192687722520577)
-    
--    
-    - [Twitter]()
-    
--    
-    - [Twitter]()
   
 
 **News and mentions:**
@@ -103,10 +96,10 @@
 -  September 28th coverage on #HablemosDecred 15 on DeFi, NFTs and investments of the future
     - [Cointelegraph in Spanish](https://es.cointelegraph.com/news/there-will-be-a-new-edition-of-lets-talk-decred-about-defi-nfts-and-the-future-of-investments)
     
--  October 1st Criptolugares currency of the month 
+-  October 1st Criptolugares currency of the month. 
     - [Twitter](https://twitter.com/criptolugares/status/1311680366328111105)
     
--  October 5th covegare on #HablemosDecred 16 on Cryptocurrencies in Venezuela 
+-  October 5th covegare on #HablemosDecred 16 on Cryptocurrencies in Venezuela
     - [Cointelegraph in Spanish](https://es.cointelegraph.com/news/the-next-meeting-of-lets-talk-decred-will-be-about-cryptocurrencies-in-venezuela)
 
 
@@ -122,6 +115,8 @@
     
 -   November 2nd and 3th Blockchain Summit Latam, Decred will be a Silver sponsor 
     - [Twitter](https://twitter.com/BlockSummitLA/status/1313302075879677952)
+    
+-   November, dates to be announced, Decred Hackathon in Blockchain Land at Talent Land.
 
 
 **Financials**
@@ -130,9 +125,5 @@
 
 **Next steps:**
 
-- Continue with monthly events and social media content: #HablemosDecred 17, 18, 19 and 20  
-- Recording of Decred in Spanish Podcast episodes. 
-
-
--    
-    - [Twitter]()
+- Continue with monthly events and social media content: #HablemosDecred 17, 18, 19 and 20.
+- Recording of Decred in Spanish Podcast episodes 3, 4, 5, 6 and 7.
