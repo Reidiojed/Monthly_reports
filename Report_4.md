@@ -36,17 +36,17 @@
     - [Twitter announcement](https://twitter.com/Decred_ES/status/1313869491160444929)
  
 
-**Videos:**
+**Videos and Podcast:**
 
--   
-    - [Twitter announcement]()
-    - [Youtube]()
-    - [Twitter announcement and video]()
-    - [Twitter announcement]()
-    - [Youtube]()
-    - [Podcast #1 - Introducción a Decred en Español con Elian Huesca](https://www.youtube.com/watch?v=BGuV7AGeWAE)
-    - [Podcast #2 - Proyecto Decred con Elian Huesca](https://www.youtube.com/watch?v=LfTigtRsmDA&t=1s)
-    - [Código Decred - DCR Wallet](https://www.youtube.com/watch?v=S2SeVZqnO9A)
+-   September 26th Podcast #1 - Introducción a Decred en Español con Elian Huesca
+    - [Youtube](https://www.youtube.com/watch?v=BGuV7AGeWAE)
+    
+-   October 10th Podcast #2 - Proyecto Decred con Elian Huesca
+    - [Youtube](https://youtu.be/LfTigtRsmDA)
+    
+-   October 12th Codigo Decred DCR Wallet 
+    - [Youtube](https://youtu.be/S2SeVZqnO9A)
+
 
 **Social Media Content:**
 
@@ -88,11 +88,6 @@
 -   October 5th post on @steelbackup security 
     - [Twitter](https://twitter.com/Decred_ES/status/1313192687722520577)
     
--    
-    - [Twitter]()
-    
--    
-    - [Twitter]()
   
 
 **News and mentions:**
@@ -122,6 +117,8 @@
     
 -   November 2nd and 3th Blockchain Summit Latam, Decred will be a Silver sponsor 
     - [Twitter](https://twitter.com/BlockSummitLA/status/1313302075879677952)
+    
+-   November, dates to be announced, Decred Hackathon in Blockchain Land at Talent Land. 
 
 
 **Financials**
@@ -131,8 +128,5 @@
 **Next steps:**
 
 - Continue with monthly events and social media content: #HablemosDecred 17, 18, 19 and 20  
-- Recording of Decred in Spanish Podcast episodes. 
+- Recording of Decred in Spanish Podcast episodes 3, 4, 5, 6 and 7. 
 
-
--    
-    - [Twitter]()
